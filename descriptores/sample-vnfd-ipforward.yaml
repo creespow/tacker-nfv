@@ -28,4 +28,3 @@ topology_template:
       properties:
         network_name: demo-net
         vendor: Tacker
-}
